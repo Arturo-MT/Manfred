@@ -268,6 +268,43 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Programming Technician",
+        "startDate": "2012-09-01",
+        "finishDate": "2015-07-01",
+        "institution": {
+          "name": "Colegio de Estudios Científicos y Tecnológicos del Estado de Hidalgo",
+          "description": "Here's where my first programming experience started, I learned how to use C++ and Java to make apps and games. I also learned how to use visual studio to make my projects. Here was my first experience with HTML and we didn't use C55 we used Dreamweaver to make landing pages."
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "C#",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Basic",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
