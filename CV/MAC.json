@@ -39,6 +39,73 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Freelance",
+          "URL": "https://arturo-mt.github.io/Arturo/"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2017-09-01",
+            "challenges": [
+              {
+                "description": "I am currently working as a freelance Frontend Developer. Making clients jobs and creating projects for my portfolio to show my skills. Also, I keep learning new technologies and frameworks to improve my skills.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "MaterialUI",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
