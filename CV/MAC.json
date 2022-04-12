@@ -160,6 +160,86 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": false,
+        "name": "Frontend Developer",
+        "startDate": "2019-09-01",
+        "institution": {
+          "name": "Self-Learning",
+          "description": "After I realized that I wanted to be a web developer I started to learn how to move my programming robot skills to web development. I started with HTML, CSS, JavaScript and Bootstrap. I learned how to use Git and GitHub to manage my projects and how to use Heroku to deploy my projects. Continued with React.js and Node.js. And actually, I'm getting deeper on React at the time I'm learning Typescript."
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "PostgreSQL",
+            "type": "technology"
+          },
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "Webpack",
+            "type": "technology"
+          },
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "NPM",
+            "type": "technology"
+          },
+          {
+            "name": "API",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "Tailwind",
+            "type": "technology"
+          },
+          {
+            "name": "Heroku",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio Code",
+            "type": "technology"
+          },
+          {
+            "name": "MaterialUI",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
