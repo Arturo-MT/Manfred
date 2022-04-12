@@ -85,7 +85,15 @@
                 "type": "technology"
               },
               {
+                "name": "Webpack",
+                "type": "technology"
+              },
+              {
                 "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "NPM",
                 "type": "technology"
               },
               {
@@ -93,7 +101,27 @@
                 "type": "technology"
               },
               {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Postman",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
                 "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "Heroku",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
                 "type": "technology"
               },
               {
