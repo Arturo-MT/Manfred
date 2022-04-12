@@ -165,31 +165,6 @@
     ],
     "studies": [
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Bachelor's in Mechatronics Engineering",
-        "startDate": "2015-07-01",
-        "finishDate": "2019-03-01",
-        "institution": {
-          "name": "Universidad Tecnológica del Valle del Mezquital",
-          "description": "I choose this degree because I wanted to learn how to build robots and how to use them to solve problems. I learned how to use Arduino to build my robots and how to use C++ to programming them. I built a bartender robot, a robot that can make drinks and a cartesian robot that was the first step to build a 3D printer as my last project."
-        },
-        "linkedCompetences": [
-          {
-            "name": "C++",
-            "type": "technology"
-          },
-          {
-            "name": "Arduino",
-            "type": "technology"
-          },
-          {
-            "name": "Visual Basic",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "selfTraining",
         "degreeAchieved": false,
         "name": "Frontend Developer",
@@ -298,6 +273,32 @@
           },
           {
             "name": "C#",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Basic",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bachelor's in Mechatronics Engineering",
+        "startDate": "2015-07-01",
+        "finishDate": "2019-03-01",
+        "institution": {
+          "name": "Universidad Tecnológica del Valle del Mezquital",
+          "description": "I choose this degree because I wanted to learn how to build robots and how to use them to solve problems. I learned how to use Arduino to build my robots and how to use C++ to programming them. I built a bartender robot, a robot that can make drinks and a cartesian robot that was the first step to build a 3D printer as my last project.",
+          "URL": "http://www.utvm.edu.mx/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "Arduino",
             "type": "technology"
           },
           {
