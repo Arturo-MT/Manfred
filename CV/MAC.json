@@ -247,12 +247,39 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "Bachelor's in Mechatronics Engineering",
+        "startDate": "2015-07-01",
+        "finishDate": "2019-03-01",
+        "institution": {
+          "name": "Universidad Tecnológica del Valle del Mezquital",
+          "description": "I choose this degree because I wanted to learn how to build robots and how to use them to solve problems. I learned how to use Arduino to build my robots and how to use C++ to programming them. I built a bartender robot, a robot that can make drinks and a cartesian robot that was the first step to build a 3D printer as my last project.",
+          "URL": "http://www.utvm.edu.mx/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "Arduino",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Basic",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Programming Technician",
         "startDate": "2012-09-01",
         "finishDate": "2015-07-01",
         "institution": {
           "name": "Colegio de Estudios Científicos y Tecnológicos del Estado de Hidalgo",
-          "description": "Here's where my first programming experience started, I learned how to use C++ and Java to make apps and games. I also learned how to use visual studio to make my projects. Here was my first experience with HTML and we didn't use C55 we used Dreamweaver to make landing pages."
+          "description": "Here's where my first programming experience started, I learned how to use C++ and Java to make apps and games. I also learned how to use visual studio to make my projects. Here was my first experience with HTML and we didn't use C55 we used Dreamweaver to make landing pages.",
+          "URL": "http://www.cecyteh.edu.mx/generar_plantel.php?id_plantel=11"
         },
         "linkedCompetences": [
           {
@@ -273,32 +300,6 @@
           },
           {
             "name": "C#",
-            "type": "technology"
-          },
-          {
-            "name": "Visual Basic",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Bachelor's in Mechatronics Engineering",
-        "startDate": "2015-07-01",
-        "finishDate": "2019-03-01",
-        "institution": {
-          "name": "Universidad Tecnológica del Valle del Mezquital",
-          "description": "I choose this degree because I wanted to learn how to build robots and how to use them to solve problems. I learned how to use Arduino to build my robots and how to use C++ to programming them. I built a bartender robot, a robot that can make drinks and a cartesian robot that was the first step to build a 3D printer as my last project.",
-          "URL": "http://www.utvm.edu.mx/"
-        },
-        "linkedCompetences": [
-          {
-            "name": "C++",
-            "type": "technology"
-          },
-          {
-            "name": "Arduino",
             "type": "technology"
           },
           {
