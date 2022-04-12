@@ -1,0 +1,106 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Brian Arturo",
+      "surnames": "Monroy Torrez",
+      "title": "Jr. Frontend Developer and gamer",
+      "description": "I want to be productive within the knowledge I have and keep learning technologies to be great developer.",
+      "avatar": {
+        "alt": "fotolinkedin.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/845e3578-ade7-44e2-a9d8-151060cfebfc_fotolinkedin.png"
+      },
+      "location": {
+        "notes": "México"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/brian-monroy-torrez-99544620a/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/Arturo-MT"
+      },
+      {
+        "type": "other",
+        "URL": "https://arturo-mt.github.io/Arturo/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "My favourite games",
+        "fact": "For example:\n\n  1. The Witcher 3: Wild Hunt\n  2. Pokémon Series\n  3. The Legend of Zelda series"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "English"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/brian-monroy-torrez-99544620a/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
