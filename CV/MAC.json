@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -11,13 +11,20 @@
       "title": "Jr. Frontend Developer and gamer",
       "description": "I want to be productive within my knowledge and keep learning technologies to be a great developer.",
       "avatar": {
-        "alt": "fotolinkedin.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/845e3578-ade7-44e2-a9d8-151060cfebfc_fotolinkedin.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/845e3578-ade7-44e2-a9d8-151060cfebfc_fotolinkedin.png",
+        "alt": "fotolinkedin.png"
       },
       "location": {
-        "notes": "México"
+        "notes": "Autocompleted using Google Maps API (id: ChIJU1NoiDs6BIQREZgJa760ZO0)",
+        "country": "México"
       }
     },
+    "interestingFacts": [
+      {
+        "topic": "My favourite games",
+        "fact": "For example:\n\n  1. The Witcher 3: Wild Hunt\n  2. Pokémon Series\n  3. The Legend of Zelda series"
+      }
+    ],
     "relevantLinks": [
       {
         "type": "linkedin",
@@ -30,12 +37,6 @@
       {
         "type": "other",
         "URL": "https://arturo-mt.github.io/Arturo/"
-      }
-    ],
-    "interestingFacts": [
-      {
-        "topic": "My favourite games",
-        "fact": "For example:\n\n  1. The Witcher 3: Wild Hunt\n  2. Pokémon Series\n  3. The Legend of Zelda series"
       }
     ]
   },
@@ -57,27 +58,7 @@
             ],
             "competences": [
               {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
+                "name": "API",
                 "type": "technology"
               },
               {
@@ -85,7 +66,7 @@
                 "type": "technology"
               },
               {
-                "name": "Webpack",
+                "name": "CSS",
                 "type": "technology"
               },
               {
@@ -93,19 +74,7 @@
                 "type": "technology"
               },
               {
-                "name": "NPM",
-                "type": "technology"
-              },
-              {
-                "name": "API",
-                "type": "technology"
-              },
-              {
                 "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Postman",
                 "type": "technology"
               },
               {
@@ -113,7 +82,7 @@
                 "type": "technology"
               },
               {
-                "name": "Tailwind",
+                "name": "HTML",
                 "type": "technology"
               },
               {
@@ -121,11 +90,43 @@
                 "type": "technology"
               },
               {
-                "name": "Visual Studio Code",
+                "name": "JavaScript",
                 "type": "technology"
               },
               {
                 "name": "MaterialUI",
+                "type": "technology"
+              },
+              {
+                "name": "NPM",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Postman",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              },
+              {
+                "name": "Webpack",
                 "type": "technology"
               }
             ]
@@ -137,10 +138,14 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "English"
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -165,6 +170,32 @@
     ],
     "studies": [
       {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bachelor's in Mechatronics Engineering",
+        "startDate": "2015-07-01",
+        "institution": {
+          "name": "Universidad Tecnológica del Valle del Mezquital",
+          "description": "I choose this degree because I wanted to learn how to build robots and how to use them to solve problems. I learned how to use Arduino to build my robots and how to use C++ to programming them. I built a bartender robot, a robot that can make drinks and a cartesian robot that was the first step to build a 3D printer as my last project.",
+          "URL": "http://www.utvm.edu.mx/"
+        },
+        "finishDate": "2019-03-01",
+        "linkedCompetences": [
+          {
+            "name": "Arduino",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Basic",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "selfTraining",
         "degreeAchieved": false,
         "name": "Frontend Developer",
@@ -175,27 +206,7 @@
         },
         "linkedCompetences": [
           {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "NodeJS",
-            "type": "technology"
-          },
-          {
-            "name": "React",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "PostgreSQL",
+            "name": "API",
             "type": "technology"
           },
           {
@@ -203,19 +214,11 @@
             "type": "technology"
           },
           {
-            "name": "Webpack",
+            "name": "CSS",
             "type": "technology"
           },
           {
             "name": "Express",
-            "type": "technology"
-          },
-          {
-            "name": "NPM",
-            "type": "technology"
-          },
-          {
-            "name": "API",
             "type": "technology"
           },
           {
@@ -227,7 +230,7 @@
             "type": "technology"
           },
           {
-            "name": "Tailwind",
+            "name": "HTML",
             "type": "technology"
           },
           {
@@ -235,37 +238,39 @@
             "type": "technology"
           },
           {
-            "name": "Visual Studio Code",
+            "name": "JavaScript",
             "type": "technology"
           },
           {
             "name": "MaterialUI",
             "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Bachelor's in Mechatronics Engineering",
-        "startDate": "2015-07-01",
-        "finishDate": "2019-03-01",
-        "institution": {
-          "name": "Universidad Tecnológica del Valle del Mezquital",
-          "description": "I choose this degree because I wanted to learn how to build robots and how to use them to solve problems. I learned how to use Arduino to build my robots and how to use C++ to programming them. I built a bartender robot, a robot that can make drinks and a cartesian robot that was the first step to build a 3D printer as my last project.",
-          "URL": "http://www.utvm.edu.mx/"
-        },
-        "linkedCompetences": [
+          },
           {
-            "name": "C++",
+            "name": "NPM",
             "type": "technology"
           },
           {
-            "name": "Arduino",
+            "name": "NodeJS",
             "type": "technology"
           },
           {
-            "name": "Visual Basic",
+            "name": "PostgreSQL",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Tailwind",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio Code",
+            "type": "technology"
+          },
+          {
+            "name": "Webpack",
             "type": "technology"
           }
         ]
@@ -275,23 +280,19 @@
         "degreeAchieved": true,
         "name": "Programming Technician",
         "startDate": "2012-09-01",
-        "finishDate": "2015-07-01",
         "institution": {
           "name": "Colegio de Estudios Científicos y Tecnológicos del Estado de Hidalgo",
           "description": "Here's where my first programming experience started, I learned how to use C++ and Java to make apps and games. I also learned how to use visual studio to make my projects. Here was my first experience with HTML and we didn't use C55 we used Dreamweaver to make landing pages.",
           "URL": "http://www.cecyteh.edu.mx/generar_plantel.php?id_plantel=11"
         },
+        "finishDate": "2015-07-01",
         "linkedCompetences": [
           {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
             "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "C#",
             "type": "technology"
           },
           {
@@ -299,7 +300,11 @@
             "type": "technology"
           },
           {
-            "name": "C#",
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
             "type": "technology"
           },
           {
@@ -308,31 +313,46 @@
           }
         ]
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Ability to receive feedback",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adaptability to change",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/brian-monroy-torrez-99544620a/"
+          "URL": "https://www.linkedin.com/in/brian-monroy-torrez-99544620a/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/Arturo-MT",
+          "type": "github"
         }
+      ],
+      "contactMails": [
+        "ingatorrez@gmail.com"
       ]
     },
     "preferences": {
       "preferredCompetences": [
-        {
-          "name": "React",
-          "type": "technology"
-        },
-        {
-          "name": "NodeJS",
-          "type": "technology"
-        },
-        {
-          "name": "TypeScript",
-          "type": "technology"
-        },
         {
           "name": "JavaScript",
           "type": "technology"
@@ -340,8 +360,28 @@
         {
           "name": "NextJS",
           "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Frontend Developer",
+        "Full-stack Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I would like a job where I can learn more about development and get experience working. 5 days a week, and respectful with the workers."
   }
 }
