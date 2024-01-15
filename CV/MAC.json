@@ -44,6 +44,70 @@
     "jobs": [
       {
         "organization": {
+          "name": "Scalero",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/15/587d566d-e1fa-4454-bc41-1afafdaf2695_oip.jpeg",
+            "alt": "OIP.jpeg"
+          },
+          "URL": "https://scalero.io/"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2022-06-01",
+            "finishDate": "2023-12-01",
+            "challenges": [
+              {
+                "description": "Fixes, features development, Figma plugins building and lastly improvements on the API's parser for the company´s main app."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "Github Actions",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Storybook",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Freelance",
           "URL": "https://arturo-mt.github.io/Arturo/"
         },
